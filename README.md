@@ -1,2 +1,2 @@
-# CS50-Problem-Set1
-This is a program for the first problem set of CS50
+# CS50-Problem-Set
+This is a program for the 0th problem set of CS50
